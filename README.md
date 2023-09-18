@@ -7,7 +7,7 @@ Bu çalışma, bir finans kuruluşunun müşteri memnuniyetini ölçmek için bi
 # Veri İçe Aktarma:
  İlk adımda, verilerimizi R programı kullanarak bir Excel dosyasından içe aktarıyoruz.
 
-# Veri Özetleme ve Hazırlama**: 
+# Veri Özetleme ve Hazırlama: 
 Verileri özetleyip anlamak için önceki ve sonraki adımlarda verilerimizi inceledik. Ayrıca, modelin başarılı bir şekilde çalışabilmesi için kategorik değişkenleri faktör olarak tanımladık.
 
 # Veriyi Eğitim ve Test Setlerine Ayırma: 
